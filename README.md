@@ -32,6 +32,7 @@ https://reactapp1assignment.netlify.app/
 
 ## 📸 Screenshot
 
+![App Screenshot](./screenshot.png)
 
 ---
 
